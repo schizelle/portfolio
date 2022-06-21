@@ -15,9 +15,9 @@ nav-menu: true
 
 <iframe width="45%" height="300"  src="https://www.youtube.com/embed/ft3iipt-pYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Audition 
 
+- Audition 
 - Hills Are Alive 
 - Funny Monologue
-- audio embeds
+# audio embeds
 - soft place to land
