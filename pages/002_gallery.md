@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Gallery
-image: assets/images/pic01.jpg
+image: null
 nav-menu: true
 ---
+
+{% include image-gallery.html folder="assets/images" %}
