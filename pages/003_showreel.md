@@ -5,7 +5,9 @@ image: null
 nav-menu: true
 ---
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/4nW7mFCmjPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Youtube Videos
+
+<iframe width="90%" height="500" src="https://www.youtube.com/embed/4nW7mFCmjPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----
 
@@ -15,9 +17,4 @@ nav-menu: true
 
 <iframe width="45%" height="300"  src="https://www.youtube.com/embed/ft3iipt-pYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-- Audition 
-- Hills Are Alive 
-- Funny Monologue
-# audio embeds
-- soft place to land
+## Sounds Clips
